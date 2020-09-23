@@ -3,7 +3,7 @@ import java.util.List;
 
 /**
  * 计算右侧小于当前元素的个数
- * 归并排序思路
+ * 1.归并排序思路
  */
 public class _315 {
 

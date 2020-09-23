@@ -3,6 +3,9 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * 组合之和为某数的所有排列
+ */
 public class _40 {
 
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
