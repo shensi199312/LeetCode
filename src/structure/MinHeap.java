@@ -1,5 +1,8 @@
 package structure;
 
+/**
+ * 最小堆
+ */
 public class MinHeap {
 
     private int[] array;

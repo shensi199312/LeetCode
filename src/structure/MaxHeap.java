@@ -1,5 +1,8 @@
 package structure;
 
+/**
+ * 最大堆
+ */
 public class MaxHeap {
 
     private int[] array;
